@@ -1,0 +1,26 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;  
+}
+body{
+    height: 100vh;
+}
+span{
+    color: rgb(53, 235, 8);
+}
+img{
+    background-position: center;
+    display: block;
+    max-height: 100%;
+    width: 1500px;
+}
+.nav-link {
+    color: aliceblue;
+}
+
+
+
+    
