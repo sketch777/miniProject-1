@@ -8,17 +8,22 @@
 body{
     height: 100vh;
 }
-span{
-    color: rgb(53, 235, 8);
-}
+
+
 img{
     background-position: center;
     display: block;
     max-height: 100%;
     width: 1500px;
 }
-.nav-link {
-    color: aliceblue;
+div a {
+    padding-right: 200px;
+}
+.nav-link ul{
+    color: rgb(240, 255, 241);
+    margin-left: 12px;
+    position: relative;
+    padding-right:100px ;
 }
 
 
