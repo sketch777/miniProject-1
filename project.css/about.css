@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    background: url(..//images/portfolio/2.jpg) no-repeat;
+    background-size: cover;
+  
+}
+h1{
+    position: relative;
+    color: aqua;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+     text-align: center;
+     padding-top: 40px;
+}
